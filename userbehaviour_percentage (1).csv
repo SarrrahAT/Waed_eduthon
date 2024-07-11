@@ -1,0 +1,1000 @@
+userid,Left Review,Number of materials done,Number of visits,communities,Average Screen Time (%),Average Spent on App (%)
+1001,6,9,6,"Research Community,Machine Learning Group,Data Science Community",34,63.52705411
+1002,7,4,10,"Data Science Community,Developer Network",0,5.410821643
+1003,10,8,9,Research Community,74,20.74148297
+1004,7,6,5,"Developer Network,AI Enthusiasts,Research Community",64,44.58917836
+1005,6,5,5,"Developer Network,AI Enthusiasts",90,42.78557114
+1006,9,9,9,"Machine Learning Group,Data Science Community,Developer Network",56,60.02004008
+1007,9,9,10,"Research Community,Machine Learning Group,Data Science Community",98,88.87775551
+1008,8,2,10,Machine Learning Group,16,3.106212425
+1009,10,8,5,"Developer Network,Data Science Community",56,74.24849699
+1010,9,8,9,AI Enthusiasts,56,52.50501002
+1011,5,8,6,"Developer Network,Research Community,AI Enthusiasts",88,68.93787575
+1012,0,10,10,"AI Enthusiasts,Developer Network",48,46.69338677
+1013,9,3,10,AI Enthusiasts,2,4.909819639
+1014,9,10,2,"AI Enthusiasts,Data Science Community,Research Community",82,84.66933868
+1015,6,5,10,"Developer Network,Machine Learning Group,Research Community",64,25.1503006
+1016,9,10,7,Developer Network,22,16.93386774
+1017,5,7,3,AI Enthusiasts,76,77.75551102
+1018,7,6,6,"Data Science Community,Machine Learning Group",68,34.16833667
+1019,10,7,9,AI Enthusiasts,42,25.0501002
+1020,2,10,7,"Research Community,Machine Learning Group,Developer Network",36,96.89378758
+1021,10,7,9,"AI Enthusiasts,Research Community,Data Science Community",30,77.55511022
+1022,8,6,4,"Research Community,Machine Learning Group",68,48.29659319
+1023,5,9,8,Research Community,22,64.62925852
+1024,8,9,6,"AI Enthusiasts,Research Community,Machine Learning Group",52,68.93787575
+1025,6,8,5,"Data Science Community,Machine Learning Group",68,40.08016032
+1026,10,10,9,Research Community,96,7.314629259
+1027,9,9,9,"Research Community,Machine Learning Group",66,46.09218437
+1028,5,5,2,Research Community,98,84.96993988
+1029,5,0,8,Data Science Community,18,4.609218437
+1030,9,9,8,"AI Enthusiasts,Data Science Community",94,19.53907816
+1031,10,9,8,Data Science Community,68,11.42284569
+1032,10,6,10,Machine Learning Group,60,97.79559118
+1033,5,9,3,"Research Community,Developer Network,Machine Learning Group",70,93.38677355
+1034,9,5,10,"Developer Network,AI Enthusiasts,Research Community",24,24.34869739
+1035,6,7,5,AI Enthusiasts,24,22.24448898
+1036,10,5,10,Machine Learning Group,44,41.08216433
+1037,10,5,7,"AI Enthusiasts,Machine Learning Group,Research Community",6,7.014028056
+1038,2,4,6,"Developer Network,Machine Learning Group,Research Community",0,9.619238477
+1039,10,1,7,"AI Enthusiasts,Machine Learning Group",2,9.719438878
+1040,7,7,10,Data Science Community,80,20.74148297
+1041,3,7,7,"Data Science Community,Developer Network",82,52.00400802
+1042,6,5,6,"Data Science Community,Research Community",42,62.2244489
+1043,9,10,9,"Machine Learning Group,Data Science Community",24,46.19238477
+1044,7,2,9,"Developer Network,Machine Learning Group,AI Enthusiasts",8,9.318637275
+1045,9,10,8,"Research Community,Developer Network,Machine Learning Group",34,80.16032064
+1046,4,8,10,"AI Enthusiasts,Research Community,Data Science Community",86,12.5250501
+1047,8,5,9,"Developer Network,Data Science Community",6,3.406813627
+1048,6,8,5,Research Community,100,40.58116232
+1049,5,6,0,"Developer Network,AI Enthusiasts",38,65.53106212
+1050,9,10,9,"Machine Learning Group,Research Community,AI Enthusiasts",88,90.98196393
+1051,9,9,9,"Research Community,Developer Network",50,87.6753507
+1052,2,5,6,"Research Community,Machine Learning Group,Data Science Community",74,52.00400802
+1053,8,5,9,"Machine Learning Group,AI Enthusiasts",30,26.05210421
+1054,8,9,5,"AI Enthusiasts,Data Science Community",84,91.28256513
+1055,8,10,7,"Machine Learning Group,Developer Network",84,21.44288577
+1056,10,10,5,"Data Science Community,Research Community,Developer Network",30,77.25450902
+1057,3,5,5,"Machine Learning Group,Research Community",90,72.74549098
+1058,10,9,4,AI Enthusiasts,50,11.02204409
+1059,5,6,1,"Developer Network,Data Science Community",68,19.63927856
+1060,10,10,7,Developer Network,74,15.73146293
+1061,7,10,7,"Data Science Community,Developer Network",64,91.38276553
+1062,6,2,5,"Research Community,Developer Network,Machine Learning Group",10,6.713426854
+1063,7,10,10,"AI Enthusiasts,Machine Learning Group,Research Community",98,89.07815631
+1064,10,7,2,"Developer Network,Research Community,AI Enthusiasts",40,51.30260521
+1065,7,3,10,AI Enthusiasts,10,2.605210421
+1066,6,6,8,"Research Community,Developer Network,Machine Learning Group",98,20.24048096
+1067,9,9,5,"Developer Network,AI Enthusiasts",64,23.44689379
+1068,9,7,8,"Research Community,Data Science Community,Machine Learning Group",74,96.79358717
+1069,8,4,6,Machine Learning Group,0,4.809619238
+1070,10,3,10,AI Enthusiasts,16,9.819639279
+1071,9,9,9,"Research Community,AI Enthusiasts",98,72.44488978
+1072,5,5,5,Developer Network,86,73.94789579
+1073,0,6,5,"Research Community,Data Science Community",78,52.90581162
+1074,9,10,9,Machine Learning Group,70,88.27655311
+1075,9,0,10,Machine Learning Group,18,9.018036072
+1076,6,7,10,Developer Network,100,36.07214429
+1077,9,10,5,Research Community,80,81.26252505
+1078,5,7,9,"Developer Network,Research Community",92,39.87975952
+1079,7,7,6,"Data Science Community,Research Community",82,38.47695391
+1080,5,10,10,"Machine Learning Group,Data Science Community,Developer Network",22,97.59519038
+1081,5,10,10,"Machine Learning Group,Developer Network,AI Enthusiasts",44,22.24448898
+1082,4,6,2,"AI Enthusiasts,Research Community",36,99.19839679
+1083,1,9,10,Machine Learning Group,78,26.65330661
+1084,7,8,7,"AI Enthusiasts,Developer Network",64,92.08416834
+1085,7,9,3,Data Science Community,88,97.79559118
+1086,5,5,6,"AI Enthusiasts,Developer Network",24,43.68737475
+1087,10,5,9,"Research Community,Data Science Community,Developer Network",2,9.418837675
+1088,2,9,7,"Data Science Community,Machine Learning Group",92,32.06412826
+1089,10,4,4,"AI Enthusiasts,Research Community",12,1.703406814
+1090,8,5,3,"Developer Network,Research Community,Machine Learning Group",96,55.31062124
+1091,5,4,9,Research Community,12,6.112224449
+1092,8,7,5,"Data Science Community,AI Enthusiasts,Machine Learning Group",36,24.24849699
+1093,6,10,6,"Research Community,Data Science Community,AI Enthusiasts",30,54.40881764
+1094,10,0,10,"Data Science Community,Research Community",2,0.801603206
+1095,9,6,0,AI Enthusiasts,46,44.88977956
+1096,5,8,7,"AI Enthusiasts,Research Community,Developer Network",48,25.250501
+1097,5,0,10,"Developer Network,AI Enthusiasts,Research Community",0,6.613226453
+1098,9,2,7,"Data Science Community,Developer Network",20,4.208416834
+1099,10,5,7,Machine Learning Group,90,94.18837675
+1100,10,4,10,Developer Network,6,7.51503006
+1101,5,7,10,"Research Community,Machine Learning Group,Data Science Community",96,52.90581162
+1102,9,5,6,"Data Science Community,Developer Network",2,5.210420842
+1103,6,5,9,Research Community,94,83.16633267
+1104,10,10,8,"Developer Network,AI Enthusiasts,Research Community",42,56.01202405
+1105,10,3,9,"Developer Network,AI Enthusiasts",18,7.414829659
+1106,2,9,5,"Machine Learning Group,Data Science Community,Developer Network",34,80.56112224
+1107,10,9,5,"Research Community,Machine Learning Group,Data Science Community",50,73.44689379
+1108,7,5,9,Machine Learning Group,90,66.43286573
+1109,3,9,4,"Developer Network,Data Science Community",60,76.45290581
+1110,6,1,5,AI Enthusiasts,0,2.304609218
+1111,9,5,4,"Developer Network,Research Community,AI Enthusiasts",22,6.713426854
+1112,7,5,7,"AI Enthusiasts,Developer Network",30,11.52304609
+1113,4,8,10,AI Enthusiasts,28,85.47094188
+1114,3,7,0,"AI Enthusiasts,Data Science Community,Research Community",34,37.9759519
+1115,9,5,6,"Developer Network,Machine Learning Group,Research Community",10,2.004008016
+1116,5,5,8,Developer Network,52,63.0260521
+1117,6,6,0,AI Enthusiasts,24,50.90180361
+1118,10,8,2,"Data Science Community,Machine Learning Group",28,46.29258517
+1119,0,0,5,AI Enthusiasts,8,9.318637275
+1120,7,5,4,"Research Community,Machine Learning Group,Developer Network",82,20.44088176
+1121,10,7,7,"AI Enthusiasts,Research Community,Data Science Community",62,29.35871743
+1122,7,3,5,"Research Community,Machine Learning Group",18,3.106212425
+1123,7,0,5,Research Community,6,4.408817635
+1124,10,7,10,"AI Enthusiasts,Research Community,Machine Learning Group",38,35.47094188
+1125,10,6,3,"Data Science Community,Machine Learning Group",32,97.29458918
+1126,6,8,9,Research Community,22,25.5511022
+1127,9,5,9,"Research Community,Machine Learning Group",38,29.45891784
+1128,8,5,5,Research Community,42,68.33667335
+1129,9,9,9,Data Science Community,76,60.22044088
+1130,5,8,1,"AI Enthusiasts,Data Science Community",60,5.911823647
+1131,5,7,5,Data Science Community,54,62.8256513
+1132,9,8,5,Machine Learning Group,58,7.314629259
+1133,4,2,8,"Research Community,Developer Network,Machine Learning Group",14,0.501002004
+1134,5,8,9,"Developer Network,AI Enthusiasts,Research Community",66,50.1002004
+1135,4,6,8,AI Enthusiasts,32,36.47294589
+1136,7,6,2,Machine Learning Group,30,46.49298597
+1137,10,1,5,"AI Enthusiasts,Machine Learning Group,Research Community",20,1.002004008
+1138,0,6,6,"Developer Network,Machine Learning Group,Research Community",58,8.71743487
+1139,6,2,8,"AI Enthusiasts,Machine Learning Group",2,1.30260521
+1140,8,7,3,Data Science Community,38,57.11422846
+1141,0,7,6,"Data Science Community,Developer Network",88,66.83366733
+1142,2,0,9,"Data Science Community,Research Community",12,9.619238477
+1143,5,10,5,"Machine Learning Group,Data Science Community",66,48.59719439
+1144,4,9,0,"Developer Network,Machine Learning Group,AI Enthusiasts",78,74.14829659
+1145,7,4,7,"Research Community,Developer Network,Machine Learning Group",18,2.705410822
+1146,5,6,6,"AI Enthusiasts,Research Community,Data Science Community",50,55.01002004
+1147,5,2,7,"Developer Network,Data Science Community",4,4.208416834
+1148,10,8,8,Research Community,80,21.94388778
+1149,3,9,8,"Developer Network,AI Enthusiasts",86,55.11022044
+1150,9,8,6,"Machine Learning Group,Research Community,AI Enthusiasts",32,86.27254509
+1151,9,2,7,"Research Community,Developer Network",2,9.519038076
+1152,5,5,10,"Research Community,Machine Learning Group,Data Science Community",70,99.29859719
+1153,9,6,7,"Machine Learning Group,AI Enthusiasts",86,72.34468938
+1154,1,8,7,"AI Enthusiasts,Data Science Community",48,8.416833667
+1155,5,3,5,"Machine Learning Group,Developer Network",14,1.20240481
+1156,5,6,7,"Data Science Community,Research Community,Developer Network",34,15.33066132
+1157,8,9,6,"Machine Learning Group,Research Community",98,9.018036072
+1158,9,5,10,AI Enthusiasts,34,80.06012024
+1159,8,0,2,"Developer Network,Data Science Community",6,8.316633267
+1160,2,7,8,Developer Network,28,93.98797595
+1161,5,6,10,"Data Science Community,Developer Network",48,58.31663327
+1162,6,7,5,"Research Community,Developer Network,Machine Learning Group",82,9.619238477
+1163,8,8,5,"AI Enthusiasts,Machine Learning Group,Research Community",88,43.18637275
+1164,3,8,6,"Developer Network,Research Community,AI Enthusiasts",28,40.28056112
+1165,6,6,1,AI Enthusiasts,44,63.0260521
+1166,9,7,3,"Research Community,Developer Network,Machine Learning Group",58,9.118236473
+1167,5,10,3,"Developer Network,AI Enthusiasts",88,67.53507014
+1168,0,7,10,"Research Community,Data Science Community,Machine Learning Group",46,90.28056112
+1169,7,7,0,Machine Learning Group,28,19.63927856
+1170,6,5,5,AI Enthusiasts,92,15.13026052
+1171,7,7,9,"Research Community,AI Enthusiasts",74,56.51302605
+1172,8,6,7,Developer Network,66,49.3987976
+1173,8,10,8,"Research Community,Data Science Community",24,7.114228457
+1174,6,2,8,Machine Learning Group,6,4.609218437
+1175,7,8,3,Machine Learning Group,80,26.65330661
+1176,10,10,8,Developer Network,58,83.96793587
+1177,7,5,6,Research Community,28,13.52705411
+1178,7,5,9,"Developer Network,Research Community",62,7.214428858
+1179,5,6,9,"Data Science Community,Research Community",100,84.06813627
+1180,7,1,5,"Machine Learning Group,Data Science Community,Developer Network",18,1.20240481
+1181,6,3,9,"Machine Learning Group,Developer Network,AI Enthusiasts",6,10.02004008
+1182,10,3,9,"AI Enthusiasts,Research Community",8,3.70741483
+1183,2,10,1,Machine Learning Group,88,86.87374749
+1184,8,0,1,"AI Enthusiasts,Developer Network",8,5.110220441
+1185,10,5,9,Data Science Community,90,37.5751503
+1186,5,9,9,"AI Enthusiasts,Developer Network",84,79.95991984
+1187,5,7,5,"Research Community,Data Science Community,Developer Network",80,69.73947896
+1188,6,8,5,"Data Science Community,Machine Learning Group",70,89.57915832
+1189,1,8,9,"AI Enthusiasts,Research Community",34,52.30460922
+1190,3,3,5,"Developer Network,Research Community,Machine Learning Group",10,4.609218437
+1191,3,8,6,Research Community,38,66.23246493
+1192,10,6,9,"Data Science Community,AI Enthusiasts,Machine Learning Group",94,75.1503006
+1193,0,9,10,"Research Community,Data Science Community,AI Enthusiasts",40,10.12024048
+1194,5,9,6,"Data Science Community,Research Community",26,7.314629259
+1195,9,5,4,AI Enthusiasts,26,31.66332665
+1196,7,9,6,"AI Enthusiasts,Research Community,Developer Network",60,48.29659319
+1197,8,9,8,"Developer Network,AI Enthusiasts,Research Community",92,74.8496994
+1198,8,1,7,"Data Science Community,Developer Network",14,3.607214429
+1199,3,1,8,Machine Learning Group,2,9.218436874
+1200,8,7,5,Developer Network,96,63.52705411
+1201,6,8,1,"Research Community,Machine Learning Group,Data Science Community",58,99.19839679
+1202,9,5,1,"Data Science Community,Developer Network",36,21.24248497
+1203,9,3,6,Research Community,16,3.306613226
+1204,5,10,9,"Developer Network,AI Enthusiasts,Research Community",74,98.89779559
+1205,9,7,9,"Developer Network,AI Enthusiasts",56,89.37875752
+1206,9,10,5,"Machine Learning Group,Data Science Community,Developer Network",50,48.99799599
+1207,1,0,5,"Research Community,Machine Learning Group,Data Science Community",4,6.913827655
+1208,1,6,9,Machine Learning Group,28,27.95591182
+1209,9,9,10,"Developer Network,Data Science Community",100,88.37675351
+1210,9,7,7,AI Enthusiasts,58,72.24448898
+1211,5,7,8,"Developer Network,Research Community,AI Enthusiasts",62,67.53507014
+1212,5,10,6,"AI Enthusiasts,Developer Network",48,81.06212425
+1213,9,4,9,AI Enthusiasts,0,9.318637275
+1214,5,9,7,"AI Enthusiasts,Data Science Community,Research Community",34,29.65931864
+1215,6,2,7,"Developer Network,Machine Learning Group,Research Community",18,9.418837675
+1216,9,9,6,Developer Network,30,37.2745491
+1217,10,8,8,AI Enthusiasts,64,16.43286573
+1218,6,9,0,"Data Science Community,Machine Learning Group",28,14.62925852
+1219,4,9,9,AI Enthusiasts,82,67.33466934
+1220,6,5,9,"Research Community,Machine Learning Group,Developer Network",2,1.603206413
+1221,8,5,9,"AI Enthusiasts,Research Community,Data Science Community",30,20.54108216
+1222,7,9,10,"Research Community,Machine Learning Group",52,15.03006012
+1223,8,5,10,Research Community,24,83.76753507
+1224,5,6,5,"AI Enthusiasts,Research Community,Machine Learning Group",36,70.24048096
+1225,1,9,10,"Data Science Community,Machine Learning Group",28,61.72344689
+1226,1,10,8,Research Community,22,37.8757515
+1227,6,6,7,"Research Community,Machine Learning Group",70,100
+1228,9,4,7,Research Community,6,1.002004008
+1229,9,6,7,Data Science Community,96,29.85971944
+1230,5,8,9,"AI Enthusiasts,Data Science Community",48,34.46893788
+1231,5,7,7,Data Science Community,64,49.6993988
+1232,9,8,0,Machine Learning Group,86,39.97995992
+1233,10,5,9,"Research Community,Developer Network,Machine Learning Group",42,52.10420842
+1234,7,1,8,"Developer Network,AI Enthusiasts,Research Community",14,1.903807615
+1235,8,1,2,AI Enthusiasts,10,0
+1236,6,6,10,Machine Learning Group,64,49.19839679
+1237,9,9,9,"AI Enthusiasts,Machine Learning Group,Research Community",100,97.59519038
+1238,7,9,7,"Developer Network,Machine Learning Group,Research Community",38,86.67334669
+1239,7,5,9,"AI Enthusiasts,Machine Learning Group",28,66.33266533
+1240,6,5,7,Data Science Community,82,25.0501002
+1241,8,9,10,"Data Science Community,Developer Network",52,48.59719439
+1242,0,10,5,"Data Science Community,Research Community",30,50.70140281
+1243,9,7,6,"Machine Learning Group,Data Science Community",74,53.50701403
+1244,9,8,5,"Developer Network,Machine Learning Group,AI Enthusiasts",28,60.42084168
+1245,9,6,10,"Research Community,Developer Network,Machine Learning Group",62,81.86372745
+1246,10,9,9,"AI Enthusiasts,Research Community,Data Science Community",80,30.06012024
+1247,10,7,9,"Developer Network,Data Science Community",78,59.61923848
+1248,5,7,8,Research Community,52,93.78757515
+1249,10,6,6,"Developer Network,AI Enthusiasts",48,48.89779559
+1250,8,8,4,"Machine Learning Group,Research Community,AI Enthusiasts",66,24.24849699
+1251,7,0,6,"Research Community,Developer Network",20,3.106212425
+1252,7,9,9,"Research Community,Machine Learning Group,Data Science Community",48,39.27855711
+1253,7,9,10,"Machine Learning Group,AI Enthusiasts",66,33.36673347
+1254,9,9,5,"AI Enthusiasts,Data Science Community",36,32.86573146
+1255,7,10,9,"Machine Learning Group,Developer Network",40,82.96593186
+1256,0,10,7,"Data Science Community,Research Community,Developer Network",62,84.06813627
+1257,9,5,10,"Machine Learning Group,Research Community",8,1.703406814
+1258,8,10,9,AI Enthusiasts,98,18.83767535
+1259,2,8,4,"Developer Network,Data Science Community",78,40.58116232
+1260,10,7,10,Developer Network,48,63.52705411
+1261,9,7,7,"Data Science Community,Developer Network",50,71.64328657
+1262,7,7,9,"Research Community,Developer Network,Machine Learning Group",42,59.91983968
+1263,9,9,7,"AI Enthusiasts,Machine Learning Group,Research Community",72,75.65130261
+1264,7,7,6,"Developer Network,Research Community,AI Enthusiasts",64,13.82765531
+1265,10,0,7,AI Enthusiasts,6,7.715430862
+1266,5,9,5,"Research Community,Developer Network,Machine Learning Group",46,31.06212425
+1267,6,8,9,"Developer Network,AI Enthusiasts",50,47.79559118
+1268,5,2,7,"Research Community,Data Science Community,Machine Learning Group",8,9.118236473
+1269,10,10,6,Machine Learning Group,30,25.250501
+1270,9,9,2,AI Enthusiasts,52,38.57715431
+1271,9,7,0,"Research Community,AI Enthusiasts",70,21.74348697
+1272,8,9,9,Developer Network,28,8.116232465
+1273,6,7,10,"Research Community,Data Science Community",86,42.98597194
+1274,4,10,0,Machine Learning Group,32,25.4509018
+1275,6,5,10,Machine Learning Group,18,8.016032064
+1276,9,6,10,Developer Network,30,36.17234469
+1277,10,5,10,Research Community,14,0.801603206
+1278,5,10,7,"Developer Network,Research Community",24,86.47294589
+1279,9,9,10,"Data Science Community,Research Community",72,27.05410822
+1280,7,9,7,"Machine Learning Group,Data Science Community,Developer Network",36,81.46292585
+1281,10,8,2,"Machine Learning Group,Developer Network,AI Enthusiasts",28,82.76553106
+1282,9,6,9,"AI Enthusiasts,Research Community",48,51.20240481
+1283,4,4,10,Machine Learning Group,16,0.901803607
+1284,10,6,8,"AI Enthusiasts,Developer Network",56,86.17234469
+1285,7,9,6,Data Science Community,60,22.64529058
+1286,9,10,6,"AI Enthusiasts,Developer Network",92,13.52705411
+1287,7,5,6,"Research Community,Data Science Community,Developer Network",60,41.68336673
+1288,6,9,10,"Data Science Community,Machine Learning Group",60,46.39278557
+1289,7,7,5,"AI Enthusiasts,Research Community",98,87.8757515
+1290,5,10,8,"Developer Network,Research Community,Machine Learning Group",34,36.07214429
+1291,9,9,5,Research Community,64,83.16633267
+1292,7,4,7,"Data Science Community,AI Enthusiasts,Machine Learning Group",0,3.206412826
+1293,6,10,1,"Research Community,Data Science Community,AI Enthusiasts",44,91.08216433
+1294,2,7,8,"Data Science Community,Research Community",84,6.312625251
+1295,0,9,1,AI Enthusiasts,72,30.06012024
+1296,9,7,9,"AI Enthusiasts,Research Community,Developer Network",68,28.55711423
+1297,10,6,6,"Developer Network,AI Enthusiasts,Research Community",74,83.86773547
+1298,0,7,7,"Data Science Community,Developer Network",46,32.06412826
+1299,10,5,5,Machine Learning Group,62,62.2244489
+1300,10,9,8,Developer Network,28,15.23046092
+1301,10,7,8,"Research Community,Machine Learning Group,Data Science Community",52,48.69739479
+1302,7,6,7,"Data Science Community,Developer Network",38,40.18036072
+1303,10,2,4,Research Community,10,7.915831663
+1304,7,0,8,"Developer Network,AI Enthusiasts,Research Community",0,9.519038076
+1305,2,9,5,"Developer Network,AI Enthusiasts",66,77.95591182
+1306,9,10,9,"Machine Learning Group,Data Science Community,Developer Network",22,92.48496994
+1307,10,0,5,"Research Community,Machine Learning Group,Data Science Community",8,3.80761523
+1308,8,10,8,Machine Learning Group,62,9.519038076
+1309,6,10,10,"Developer Network,Data Science Community",66,99.19839679
+1310,6,10,8,AI Enthusiasts,98,68.03607214
+1311,6,7,5,"Developer Network,Research Community,AI Enthusiasts",66,61.82364729
+1312,10,10,8,"AI Enthusiasts,Developer Network",44,99.5991984
+1313,5,7,9,AI Enthusiasts,50,52.00400802
+1314,8,2,7,"AI Enthusiasts,Data Science Community,Research Community",18,2.50501002
+1315,5,9,10,"Developer Network,Machine Learning Group,Research Community",34,39.67935872
+1316,7,10,4,Developer Network,94,22.64529058
+1317,1,8,9,AI Enthusiasts,36,99.498998
+1318,8,6,8,"Data Science Community,Machine Learning Group",88,10.72144289
+1319,1,6,8,AI Enthusiasts,80,87.0741483
+1320,9,6,4,"Research Community,Machine Learning Group,Developer Network",46,6.012024048
+1321,6,10,10,"AI Enthusiasts,Research Community,Data Science Community",50,75.0501002
+1322,7,5,5,"Research Community,Machine Learning Group",50,86.47294589
+1323,5,8,7,Research Community,48,15.83166333
+1324,8,5,0,"AI Enthusiasts,Research Community,Machine Learning Group",78,42.48496994
+1325,8,7,2,"Data Science Community,Machine Learning Group",50,98.59719439
+1326,7,1,5,Research Community,12,2.004008016
+1327,4,8,7,"Research Community,Machine Learning Group",84,98.99799599
+1328,8,1,9,Research Community,4,3.907815631
+1329,5,9,9,Data Science Community,92,56.11222445
+1330,9,6,5,"AI Enthusiasts,Data Science Community",72,72.24448898
+1331,5,7,8,Data Science Community,42,26.15230461
+1332,8,5,7,Machine Learning Group,0,10.02004008
+1333,10,8,10,"Research Community,Developer Network,Machine Learning Group",58,49.29859719
+1334,8,8,6,"Developer Network,AI Enthusiasts,Research Community",22,22.24448898
+1335,5,7,5,AI Enthusiasts,34,78.95791583
+1336,8,4,8,Machine Learning Group,2,3.106212425
+1337,9,8,6,"AI Enthusiasts,Machine Learning Group,Research Community",74,17.53507014
+1338,7,5,1,"Developer Network,Machine Learning Group,Research Community",70,19.83967936
+1339,10,9,5,"AI Enthusiasts,Machine Learning Group",30,48.19639279
+1340,4,5,8,Data Science Community,36,86.47294589
+1341,9,8,9,"Data Science Community,Developer Network",98,58.11623246
+1342,8,10,8,"Data Science Community,Research Community",48,21.64328657
+1343,8,8,10,"Machine Learning Group,Data Science Community",24,6.913827655
+1344,4,5,7,"Developer Network,Machine Learning Group,AI Enthusiasts",30,80.86172345
+1345,10,8,10,"Research Community,Developer Network,Machine Learning Group",52,74.04809619
+1346,5,9,3,"AI Enthusiasts,Research Community,Data Science Community",54,70.54108216
+1347,7,7,5,"Developer Network,Data Science Community",48,35.77154309
+1348,0,10,10,Research Community,78,61.52304609
+1349,2,4,10,"Developer Network,AI Enthusiasts",12,8.71743487
+1350,5,9,8,"Machine Learning Group,Research Community,AI Enthusiasts",66,56.01202405
+1351,7,8,5,"Research Community,Developer Network",86,66.13226453
+1352,9,8,10,"Research Community,Machine Learning Group,Data Science Community",98,62.4248497
+1353,9,4,10,"Machine Learning Group,AI Enthusiasts",10,9.318637275
+1354,5,10,6,"AI Enthusiasts,Data Science Community",88,35.07014028
+1355,8,5,7,"Machine Learning Group,Developer Network",0,4.208416834
+1356,7,7,8,"Data Science Community,Research Community,Developer Network",70,93.78757515
+1357,10,0,9,"Machine Learning Group,Research Community",10,4.709418838
+1358,6,2,0,AI Enthusiasts,2,2.805611222
+1359,5,5,6,"Developer Network,Data Science Community",68,84.26853707
+1360,8,7,10,Developer Network,64,8.917835671
+1361,6,9,9,"Data Science Community,Developer Network",86,83.46693387
+1362,1,9,3,"Research Community,Developer Network,Machine Learning Group",64,76.45290581
+1363,5,5,1,"AI Enthusiasts,Machine Learning Group,Research Community",32,6.813627255
+1364,8,8,10,"Developer Network,Research Community,AI Enthusiasts",90,33.06613226
+1365,9,7,7,AI Enthusiasts,50,15.93186373
+1366,8,10,4,"Research Community,Developer Network,Machine Learning Group",48,34.06813627
+1367,10,6,5,"Developer Network,AI Enthusiasts",92,83.36673347
+1368,7,5,7,"Research Community,Data Science Community,Machine Learning Group",56,99.3987976
+1369,10,8,8,Machine Learning Group,60,85.07014028
+1370,3,6,6,AI Enthusiasts,52,74.34869739
+1371,5,1,9,"Research Community,AI Enthusiasts",16,7.314629259
+1372,10,5,8,Developer Network,66,19.03807615
+1373,10,8,0,"Research Community,Data Science Community",70,92.98597194
+1374,8,9,2,Machine Learning Group,24,71.94388778
+1375,5,8,10,Machine Learning Group,98,23.84769539
+1376,10,10,9,Developer Network,68,73.74749499
+1377,10,7,6,Research Community,40,99.3987976
+1378,6,10,6,"Developer Network,Research Community",36,16.53306613
+1379,7,3,7,"Data Science Community,Research Community",8,2.50501002
+1380,8,5,8,"Machine Learning Group,Data Science Community,Developer Network",14,7.51503006
+1381,9,10,7,"Machine Learning Group,Developer Network,AI Enthusiasts",28,32.66533066
+1382,0,10,1,"AI Enthusiasts,Research Community",82,17.33466934
+1383,6,8,3,Machine Learning Group,22,93.18637275
+1384,10,5,2,"AI Enthusiasts,Developer Network",30,34.96993988
+1385,9,10,7,Data Science Community,82,15.23046092
+1386,3,10,5,"AI Enthusiasts,Developer Network",44,72.04408818
+1387,1,6,5,"Research Community,Data Science Community,Developer Network",42,59.81963928
+1388,10,7,4,"Data Science Community,Machine Learning Group",36,28.65731463
+1389,7,8,9,"AI Enthusiasts,Research Community",70,75.5511022
+1390,4,9,6,"Developer Network,Research Community,Machine Learning Group",68,8.817635271
+1391,5,0,5,Research Community,8,5.01002004
+1392,7,6,7,"Data Science Community,AI Enthusiasts,Machine Learning Group",32,76.95390782
+1393,8,10,8,"Research Community,Data Science Community,AI Enthusiasts",36,15.83166333
+1394,6,9,5,"Data Science Community,Research Community",38,73.04609218
+1395,9,3,6,AI Enthusiasts,0,9.719438878
+1396,8,1,0,"AI Enthusiasts,Research Community,Developer Network",6,3.70741483
+1397,0,10,10,"Developer Network,AI Enthusiasts,Research Community",60,90.18036072
+1398,2,7,9,"Data Science Community,Developer Network",26,18.83767535
+1399,10,4,10,Machine Learning Group,4,8.917835671
+1400,9,5,8,Developer Network,100,7.014028056
+1401,6,7,8,"Research Community,Machine Learning Group,Data Science Community",26,53.70741483
+1402,6,8,6,"Data Science Community,Developer Network",100,61.02204409
+1403,7,6,4,Research Community,46,79.75951904
+1404,8,9,6,"Developer Network,AI Enthusiasts,Research Community",68,9.519038076
+1405,7,8,7,"Developer Network,AI Enthusiasts",72,87.2745491
+1406,1,0,2,"Machine Learning Group,Data Science Community,Developer Network",8,5.811623246
+1407,3,2,2,"Research Community,Machine Learning Group,Data Science Community",14,1.002004008
+1408,2,10,5,Machine Learning Group,82,73.44689379
+1409,7,9,5,"Developer Network,Data Science Community",68,60.92184369
+1410,5,6,8,AI Enthusiasts,40,50.70140281
+1411,5,6,7,"Developer Network,Research Community,AI Enthusiasts",62,97.89579158
+1412,4,7,5,"AI Enthusiasts,Developer Network",70,76.25250501
+1413,9,8,10,AI Enthusiasts,82,70.94188377
+1414,6,7,5,"AI Enthusiasts,Data Science Community,Research Community",74,53.50701403
+1415,5,1,5,"Developer Network,Machine Learning Group,Research Community",16,7.114228457
+1416,7,3,9,Developer Network,4,0.901803607
+1417,8,2,0,AI Enthusiasts,16,0.400801603
+1418,5,7,6,"Data Science Community,Machine Learning Group",24,50.3006012
+1419,6,5,7,AI Enthusiasts,44,61.52304609
+1420,0,5,5,"Research Community,Machine Learning Group,Developer Network",40,47.39478958
+1421,10,4,10,"AI Enthusiasts,Research Community,Data Science Community",20,6.713426854
+1422,9,9,7,"Research Community,Machine Learning Group",80,25.4509018
+1423,10,6,6,Research Community,36,55.91182365
+1424,8,5,8,"AI Enthusiasts,Research Community,Machine Learning Group",62,51.40280561
+1425,8,7,1,"Data Science Community,Machine Learning Group",78,8.016032064
+1426,6,8,6,Research Community,88,62.2244489
+1427,4,5,9,"Research Community,Machine Learning Group",68,90.38076152
+1428,6,6,3,Research Community,100,41.18236473
+1429,7,0,6,Data Science Community,18,6.312625251
+1430,2,10,10,"AI Enthusiasts,Data Science Community",26,89.07815631
+1431,2,9,5,Data Science Community,80,34.76953908
+1432,5,10,6,Machine Learning Group,88,54.70941884
+1433,5,8,8,"Research Community,Developer Network,Machine Learning Group",34,81.16232465
+1434,8,8,7,"Developer Network,AI Enthusiasts,Research Community",58,6.813627255
+1435,7,6,8,AI Enthusiasts,66,78.45691383
+1436,5,4,4,Machine Learning Group,14,0.901803607
+1437,10,6,6,"AI Enthusiasts,Machine Learning Group,Research Community",72,60.42084168
+1438,5,7,6,"Developer Network,Machine Learning Group,Research Community",34,63.42685371
+1439,5,2,5,"AI Enthusiasts,Machine Learning Group",10,1.503006012
+1440,9,2,8,Data Science Community,20,6.513026052
+1441,0,5,7,"Data Science Community,Developer Network",60,48.19639279
+1442,6,5,9,"Data Science Community,Research Community",58,9.318637275
+1443,7,8,0,"Machine Learning Group,Data Science Community",58,56.91382766
+1444,5,7,5,"Developer Network,Machine Learning Group,AI Enthusiasts",66,42.38476954
+1445,10,5,9,"Research Community,Developer Network,Machine Learning Group",94,31.96392786
+1446,7,10,8,"AI Enthusiasts,Research Community,Data Science Community",70,43.48697395
+1447,6,5,9,"Developer Network,Data Science Community",90,7.51503006
+1448,8,5,5,Research Community,38,78.75751503
+1449,1,9,9,"Developer Network,AI Enthusiasts",46,55.21042084
+1450,6,0,2,"Machine Learning Group,Research Community,AI Enthusiasts",14,8.517034068
+1451,9,6,10,"Research Community,Developer Network",66,48.69739479
+1452,3,7,10,"Research Community,Machine Learning Group,Data Science Community",98,26.75350701
+1453,6,5,4,"Machine Learning Group,AI Enthusiasts",82,56.71342685
+1454,10,10,10,"AI Enthusiasts,Data Science Community",32,15.03006012
+1455,5,7,10,"Machine Learning Group,Developer Network",60,62.4248497
+1456,6,6,7,"Data Science Community,Research Community,Developer Network",48,21.94388778
+1457,8,8,7,"Machine Learning Group,Research Community",34,37.9759519
+1458,7,1,5,AI Enthusiasts,12,9.719438878
+1459,8,6,5,"Developer Network,Data Science Community",36,37.5751503
+1460,4,9,9,Developer Network,46,64.82965932
+1461,6,3,8,"Data Science Community,Developer Network",16,4.408817635
+1462,6,6,9,"Research Community,Developer Network,Machine Learning Group",82,63.62725451
+1463,5,10,7,"AI Enthusiasts,Machine Learning Group,Research Community",50,24.14829659
+1464,8,5,5,"Developer Network,Research Community,AI Enthusiasts",40,85.97194389
+1465,7,6,1,AI Enthusiasts,44,43.58717435
+1466,9,8,5,"Research Community,Developer Network,Machine Learning Group",78,10.22044088
+1467,0,7,10,"Developer Network,AI Enthusiasts",42,30.56112224
+1468,5,8,4,"Research Community,Data Science Community,Machine Learning Group",84,21.24248497
+1469,9,4,2,Machine Learning Group,8,7.51503006
+1470,8,6,10,AI Enthusiasts,70,80.66132265
+1471,9,6,10,"Research Community,AI Enthusiasts",84,69.43887776
+1472,5,5,5,Developer Network,44,98.29659319
+1473,9,8,6,"Research Community,Data Science Community",50,27.55511022
+1474,2,7,8,Machine Learning Group,40,46.09218437
+1475,10,9,10,Machine Learning Group,22,27.35470942
+1476,10,0,0,Developer Network,0,6.613226453
+1477,4,5,10,Research Community,10,1.703406814
+1478,10,9,10,"Developer Network,Research Community",100,88.77755511
+1479,10,8,6,"Data Science Community,Research Community",34,47.89579158
+1480,7,9,5,"Machine Learning Group,Data Science Community,Developer Network",58,36.87374749
+1481,7,5,7,"Machine Learning Group,Developer Network,AI Enthusiasts",22,51.10220441
+1482,5,9,7,"AI Enthusiasts,Research Community",78,36.87374749
+1483,5,2,5,Machine Learning Group,18,1.402805611
+1484,9,10,9,"AI Enthusiasts,Developer Network",50,97.19438878
+1485,8,10,7,Data Science Community,90,28.45691383
+1486,9,4,10,"AI Enthusiasts,Developer Network",16,3.907815631
+1487,7,10,3,"Research Community,Data Science Community,Developer Network",26,12.5250501
+1488,5,10,10,"Data Science Community,Machine Learning Group",26,62.0240481
+1489,1,7,5,"AI Enthusiasts,Research Community",62,20.74148297
+1490,5,7,7,"Developer Network,Research Community,Machine Learning Group",84,8.316633267
+1491,10,5,9,Research Community,72,63.42685371
+1492,4,5,9,"Data Science Community,AI Enthusiasts,Machine Learning Group",0,2.104208417
+1493,2,9,8,"Research Community,Data Science Community,AI Enthusiasts",30,6.412825651
+1494,10,8,6,"Data Science Community,Research Community",32,76.85370741
+1495,10,9,7,AI Enthusiasts,56,7.51503006
+1496,5,7,6,"AI Enthusiasts,Research Community,Developer Network",92,5.310621242
+1497,6,5,10,"Developer Network,AI Enthusiasts,Research Community",68,36.67334669
+1498,8,1,9,"Data Science Community,Developer Network",18,1.503006012
+1499,10,5,8,Machine Learning Group,26,47.99599198
+1500,0,10,7,Developer Network,58,72.74549098
+1501,10,4,10,"Research Community,Machine Learning Group,Data Science Community",4,8.116232465
+1502,10,2,2,"Data Science Community,Developer Network",4,2.50501002
+1503,6,10,4,Research Community,58,56.81362725
+1504,5,10,5,"Developer Network,AI Enthusiasts,Research Community",52,82.06412826
+1505,7,5,7,"Developer Network,AI Enthusiasts",38,63.72745491
+1506,7,6,3,"Machine Learning Group,Data Science Community,Developer Network",66,83.06613226
+1507,5,8,9,"Research Community,Machine Learning Group,Data Science Community",32,74.9498998
+1508,9,10,9,Machine Learning Group,98,49.8997996
+1509,7,0,5,"Developer Network,Data Science Community",16,7.214428858
+1510,10,10,2,AI Enthusiasts,46,86.07214429
+1511,3,10,10,"Developer Network,Research Community,AI Enthusiasts",82,83.46693387
+1512,10,6,7,"AI Enthusiasts,Developer Network",80,48.29659319
+1513,5,5,9,AI Enthusiasts,90,40.28056112
+1514,7,7,7,"AI Enthusiasts,Data Science Community,Research Community",84,59.01803607
+1515,9,7,2,"Developer Network,Machine Learning Group,Research Community",46,88.17635271
+1516,9,5,9,Developer Network,78,6.112224449
+1517,8,9,9,AI Enthusiasts,32,67.03406814
+1518,6,7,9,"Data Science Community,Machine Learning Group",22,22.44488978
+1519,7,10,8,AI Enthusiasts,22,84.66933868
+1520,6,3,7,"Research Community,Machine Learning Group,Developer Network",8,4.408817635
+1521,10,10,5,"AI Enthusiasts,Research Community,Data Science Community",32,41.58316633
+1522,9,5,6,"Research Community,Machine Learning Group",12,0.701402806
+1523,8,7,9,Research Community,86,18.73747495
+1524,7,9,10,"AI Enthusiasts,Research Community,Machine Learning Group",44,87.7755511
+1525,10,9,9,"Data Science Community,Machine Learning Group",38,7.915831663
+1526,2,8,4,Research Community,74,67.93587174
+1527,4,6,6,"Research Community,Machine Learning Group",28,53.10621242
+1528,5,7,3,Research Community,82,31.96392786
+1529,7,6,6,Data Science Community,56,42.78557114
+1530,3,10,5,"AI Enthusiasts,Data Science Community",98,16.13226453
+1531,9,9,6,Data Science Community,58,51.70340681
+1532,9,8,0,Machine Learning Group,38,16.83366733
+1533,5,7,8,"Research Community,Developer Network,Machine Learning Group",96,50.501002
+1534,2,10,10,"Developer Network,AI Enthusiasts,Research Community",60,46.59318637
+1535,10,2,5,AI Enthusiasts,2,1.30260521
+1536,7,4,6,Machine Learning Group,8,0.200400802
+1537,9,5,10,"AI Enthusiasts,Machine Learning Group,Research Community",94,88.67735471
+1538,7,7,7,"Developer Network,Machine Learning Group,Research Community",38,47.49498998
+1539,2,3,3,"AI Enthusiasts,Machine Learning Group",10,6.21242485
+1540,9,9,5,Data Science Community,66,70.44088176
+1541,9,9,10,"Data Science Community,Developer Network",74,15.53106212
+1542,9,5,5,"Data Science Community,Research Community",14,8.517034068
+1543,8,2,1,"Machine Learning Group,Data Science Community",18,2.605210421
+1544,7,10,5,"Developer Network,Machine Learning Group,AI Enthusiasts",98,32.16432866
+1545,5,7,10,"Research Community,Developer Network,Machine Learning Group",82,81.46292585
+1546,6,9,5,"AI Enthusiasts,Research Community,Data Science Community",60,35.57114228
+1547,9,7,8,"Developer Network,Data Science Community",40,69.13827655
+1548,10,2,1,Research Community,10,2.50501002
+1549,9,9,9,"Developer Network,AI Enthusiasts",90,33.16633267
+1550,4,9,9,"Machine Learning Group,Research Community,AI Enthusiasts",66,44.18837675
+1551,6,9,7,"Research Community,Developer Network",70,33.86773547
+1552,3,8,0,"Research Community,Machine Learning Group,Data Science Community",40,70.24048096
+1553,6,7,9,"Machine Learning Group,AI Enthusiasts",36,41.18236473
+1554,5,5,9,"AI Enthusiasts,Data Science Community",66,97.19438878
+1555,6,6,7,"Machine Learning Group,Developer Network",48,12.0240481
+1556,0,9,10,"Data Science Community,Research Community,Developer Network",72,18.73747495
+1557,8,10,5,"Machine Learning Group,Research Community",82,92.88577154
+1558,10,9,5,AI Enthusiasts,48,56.51302605
+1559,5,4,9,"Developer Network,Data Science Community",14,7.114228457
+1560,6,6,10,Developer Network,68,23.94789579
+1561,10,3,6,"Data Science Community,Developer Network",4,9.919839679
+1562,7,6,4,"Research Community,Developer Network,Machine Learning Group",42,30.76152305
+1563,3,5,9,"AI Enthusiasts,Machine Learning Group,Research Community",86,23.64729459
+1564,5,6,1,"Developer Network,Research Community,AI Enthusiasts",80,51.20240481
+1565,10,0,10,AI Enthusiasts,2,5.911823647
+1566,5,8,5,"Research Community,Developer Network,Machine Learning Group",36,63.92785571
+1567,1,10,10,"Developer Network,AI Enthusiasts",38,53.80761523
+1568,5,5,5,"Research Community,Data Science Community,Machine Learning Group",28,83.76753507
+1569,10,6,1,Machine Learning Group,58,74.4488978
+1570,5,10,5,AI Enthusiasts,98,37.1743487
+1571,8,7,10,"Research Community,AI Enthusiasts",68,9.018036072
+1572,1,3,5,Developer Network,10,3.607214429
+1573,9,5,8,"Research Community,Data Science Community",0,2.605210421
+1574,9,10,1,Machine Learning Group,36,9.118236473
+1575,7,5,9,Machine Learning Group,12,4.008016032
+1576,0,1,9,Developer Network,14,4.809619238
+1577,9,5,7,Research Community,38,46.79358717
+1578,9,10,0,"Developer Network,Research Community",60,83.26653307
+1579,7,5,9,"Data Science Community,Research Community",66,16.43286573
+1580,10,8,9,"Machine Learning Group,Data Science Community,Developer Network",90,93.78757515
+1581,5,1,7,"Machine Learning Group,Developer Network,AI Enthusiasts",16,2.905811623
+1582,5,9,10,"AI Enthusiasts,Research Community",42,37.9759519
+1583,9,9,5,Machine Learning Group,84,78.75751503
+1584,10,7,5,"AI Enthusiasts,Developer Network",70,19.43887776
+1585,6,0,9,Data Science Community,4,9.619238477
+1586,4,9,10,"AI Enthusiasts,Developer Network",100,17.03406814
+1587,9,9,6,"Research Community,Data Science Community,Developer Network",40,12.8256513
+1588,1,7,4,"Data Science Community,Machine Learning Group",94,74.5490982
+1589,10,10,9,"AI Enthusiasts,Research Community",48,85.17034068
+1590,2,5,1,"Developer Network,Research Community,Machine Learning Group",52,60.82164329
+1591,5,5,10,Research Community,16,4.509018036
+1592,8,9,2,"Data Science Community,AI Enthusiasts,Machine Learning Group",60,64.52905812
+1593,9,10,5,"Research Community,Data Science Community,AI Enthusiasts",92,10.72144289
+1594,7,6,8,"Data Science Community,Research Community",88,88.87775551
+1595,9,4,9,AI Enthusiasts,12,9.318637275
+1596,7,9,7,"AI Enthusiasts,Research Community,Developer Network",56,50.4008016
+1597,5,1,9,"Developer Network,AI Enthusiasts,Research Community",12,0.901803607
+1598,7,10,7,"Data Science Community,Developer Network",74,57.21442886
+1599,8,2,5,Machine Learning Group,2,8.416833667
+1600,8,5,7,Developer Network,54,42.48496994
+1601,5,8,8,"Research Community,Machine Learning Group,Data Science Community",92,40.48096192
+1602,7,9,8,"Data Science Community,Developer Network",70,32.96593186
+1603,8,7,5,Research Community,42,75.250501
+1604,6,9,7,"Developer Network,AI Enthusiasts,Research Community",38,26.95390782
+1605,1,7,8,"Developer Network,AI Enthusiasts",50,89.57915832
+1606,3,5,6,"Machine Learning Group,Data Science Community,Developer Network",84,52.10420842
+1607,9,7,1,"Research Community,Machine Learning Group,Data Science Community",72,86.67334669
+1608,7,8,3,Machine Learning Group,86,51.90380762
+1609,4,8,9,"Developer Network,Data Science Community",62,16.13226453
+1610,5,5,7,AI Enthusiasts,74,32.86573146
+1611,10,7,4,"Developer Network,Research Community,AI Enthusiasts",38,41.08216433
+1612,5,8,5,"AI Enthusiasts,Developer Network",46,73.64729459
+1613,7,6,10,AI Enthusiasts,36,54.00801603
+1614,7,1,5,"AI Enthusiasts,Data Science Community,Research Community",10,4.609218437
+1615,8,3,7,"Developer Network,Machine Learning Group,Research Community",16,9.619238477
+1616,7,9,7,Developer Network,66,41.98396794
+1617,6,7,8,AI Enthusiasts,68,57.91583166
+1618,6,4,7,"Data Science Community,Machine Learning Group",2,5.611222445
+1619,8,5,6,AI Enthusiasts,14,4.809619238
+1620,5,10,6,"Research Community,Machine Learning Group,Developer Network",80,15.13026052
+1621,6,5,8,"AI Enthusiasts,Research Community,Data Science Community",68,89.57915832
+1622,2,7,5,"Research Community,Machine Learning Group",70,39.47895792
+1623,7,7,6,Research Community,74,87.8757515
+1624,6,8,2,"AI Enthusiasts,Research Community,Machine Learning Group",78,24.9498998
+1625,5,7,7,"Data Science Community,Machine Learning Group",28,45.99198397
+1626,6,6,6,Research Community,82,83.86773547
+1627,2,6,5,"Research Community,Machine Learning Group",78,72.74549098
+1628,7,8,6,Research Community,48,59.81963928
+1629,3,5,2,Data Science Community,90,39.57915832
+1630,5,6,7,"AI Enthusiasts,Data Science Community",44,45.99198397
+1631,6,2,3,Data Science Community,18,0.601202405
+1632,10,7,5,Machine Learning Group,82,90.58116232
+1633,9,6,6,"Research Community,Developer Network,Machine Learning Group",38,84.26853707
+1634,6,5,10,"Developer Network,AI Enthusiasts,Research Community",34,16.73346693
+1635,8,6,9,AI Enthusiasts,94,22.84569138
+1636,5,2,6,Machine Learning Group,10,4.909819639
+1637,9,7,8,"AI Enthusiasts,Machine Learning Group,Research Community",44,84.86973948
+1638,5,3,5,"Developer Network,Machine Learning Group,Research Community",16,6.813627255
+1639,7,5,9,"AI Enthusiasts,Machine Learning Group",32,7.815631263
+1640,10,6,5,Data Science Community,96,12.5250501
+1641,10,10,7,"Data Science Community,Developer Network",80,27.55511022
+1642,10,9,10,"Data Science Community,Research Community",42,76.95390782
+1643,3,6,10,"Machine Learning Group,Data Science Community",90,50
+1644,8,8,10,"Developer Network,Machine Learning Group,AI Enthusiasts",94,6.412825651
+1645,6,5,3,"Research Community,Developer Network,Machine Learning Group",66,97.19438878
+1646,7,9,8,"AI Enthusiasts,Research Community,Data Science Community",90,51.70340681
+1647,8,5,6,"Developer Network,Data Science Community",64,80.16032064
+1648,9,7,7,Research Community,38,75.75150301
+1649,6,10,8,"Developer Network,AI Enthusiasts",30,68.93787575
+1650,8,10,9,"Machine Learning Group,Research Community,AI Enthusiasts",94,28.05611222
+1651,10,10,6,"Research Community,Developer Network",86,58.11623246
+1652,4,3,8,"Research Community,Machine Learning Group,Data Science Community",0,4.208416834
+1653,6,8,10,"Machine Learning Group,AI Enthusiasts",58,61.12224449
+1654,1,6,4,"AI Enthusiasts,Data Science Community",34,48.49699399
+1655,8,7,6,"Machine Learning Group,Developer Network",38,36.9739479
+1656,0,8,1,"Data Science Community,Research Community,Developer Network",42,7.915831663
+1657,2,9,8,"Machine Learning Group,Research Community",54,28.45691383
+1658,8,6,0,AI Enthusiasts,24,55.61122244
+1659,2,8,2,"Developer Network,Data Science Community",44,71.54308617
+1660,5,10,8,Developer Network,62,51.80360721
+1661,6,4,2,"Data Science Community,Developer Network",16,7.314629259
+1662,8,6,5,"Research Community,Developer Network,Machine Learning Group",70,17.03406814
+1663,6,1,6,"AI Enthusiasts,Machine Learning Group,Research Community",0,8.817635271
+1664,10,8,8,"Developer Network,Research Community,AI Enthusiasts",100,72.04408818
+1665,2,0,6,AI Enthusiasts,12,5.210420842
+1666,7,2,10,"Research Community,Developer Network,Machine Learning Group",20,1.30260521
+1667,10,8,2,"Developer Network,AI Enthusiasts",98,15.53106212
+1668,5,2,7,"Research Community,Data Science Community,Machine Learning Group",16,7.715430862
+1669,6,5,10,Machine Learning Group,2,7.51503006
+1670,6,6,5,AI Enthusiasts,62,31.16232465
+1671,7,8,6,"Research Community,AI Enthusiasts",54,8.517034068
+1672,7,6,6,Developer Network,56,15.53106212
+1673,2,10,7,"Research Community,Data Science Community",36,42.38476954
+1674,8,2,7,Machine Learning Group,16,0.701402806
+1675,9,7,2,Machine Learning Group,92,82.06412826
+1676,5,10,8,Developer Network,60,53.40681363
+1677,3,5,9,Research Community,66,52.40480962
+1678,0,6,5,"Developer Network,Research Community",90,79.85971944
+1679,10,6,3,"Data Science Community,Research Community",62,50.90180361
+1680,8,7,0,"Machine Learning Group,Data Science Community,Developer Network",96,73.04609218
+1681,6,7,10,"Machine Learning Group,Developer Network,AI Enthusiasts",72,60.12024048
+1682,10,2,8,"AI Enthusiasts,Research Community",12,7.51503006
+1683,10,8,6,Machine Learning Group,44,18.03607214
+1684,9,9,10,"AI Enthusiasts,Developer Network",32,61.9238477
+1685,6,5,10,Data Science Community,64,64.82965932
+1686,6,3,9,"AI Enthusiasts,Developer Network",12,3.70741483
+1687,10,0,6,"Research Community,Data Science Community,Developer Network",12,5.511022044
+1688,0,10,6,"Data Science Community,Machine Learning Group",90,52.90581162
+1689,4,8,10,"AI Enthusiasts,Research Community",36,78.05611222
+1690,7,6,0,"Developer Network,Research Community,Machine Learning Group",32,16.73346693
+1691,6,10,4,Research Community,22,77.35470942
+1692,1,10,7,"Data Science Community,AI Enthusiasts,Machine Learning Group",66,86.47294589
+1693,1,9,6,"Research Community,Data Science Community,AI Enthusiasts",50,30.66132265
+1694,8,6,1,"Data Science Community,Research Community",64,62.8256513
+1695,6,6,1,AI Enthusiasts,74,85.57114228
+1696,9,10,8,"AI Enthusiasts,Research Community,Developer Network",60,85.07014028
+1697,7,0,6,"Developer Network,AI Enthusiasts,Research Community",16,0.400801603
+1698,8,4,9,"Data Science Community,Developer Network",20,8.71743487
+1699,7,7,7,Machine Learning Group,76,20.84168337
+1700,0,6,8,Developer Network,60,42.48496994
+1701,9,1,7,"Research Community,Machine Learning Group,Data Science Community",20,8.416833667
+1702,9,1,0,"Data Science Community,Developer Network",4,1.30260521
+1703,7,8,9,Research Community,62,99.498998
+1704,9,6,9,"Developer Network,AI Enthusiasts,Research Community",28,61.02204409
+1705,8,9,7,"Developer Network,AI Enthusiasts",32,29.55911824
+1706,2,7,9,"Machine Learning Group,Data Science Community,Developer Network",22,28.25651303
+1707,8,8,8,"Research Community,Machine Learning Group,Data Science Community",86,95.99198397
+1708,8,7,2,Machine Learning Group,44,5.310621242
+1709,1,0,8,"Developer Network,Data Science Community",14,6.913827655
+1710,5,9,8,AI Enthusiasts,62,87.5751503
+1711,10,9,1,"Developer Network,Research Community,AI Enthusiasts",36,84.66933868
+1712,2,7,5,"AI Enthusiasts,Developer Network",28,56.81362725
+1713,6,9,10,AI Enthusiasts,74,30.06012024
+1714,6,8,2,"AI Enthusiasts,Data Science Community,Research Community",68,11.62324649
+1715,5,2,6,"Developer Network,Machine Learning Group,Research Community",6,4.509018036
+1716,1,8,6,Developer Network,44,75.4509018
+1717,7,8,5,AI Enthusiasts,48,82.66533066
+1718,9,1,1,"Data Science Community,Machine Learning Group",12,6.412825651
+1719,8,5,7,AI Enthusiasts,86,90.48096192
+1720,10,10,9,"Research Community,Machine Learning Group,Developer Network",94,56.11222445
+1721,9,2,8,"AI Enthusiasts,Research Community,Data Science Community",8,3.607214429
+1722,9,6,10,"Research Community,Machine Learning Group",22,87.4749499
+1723,5,6,9,Research Community,24,43.88777555
+1724,9,5,9,"AI Enthusiasts,Research Community,Machine Learning Group",52,20.14028056
+1725,0,1,5,"Data Science Community,Machine Learning Group",16,8.617234469
+1726,7,7,9,Research Community,90,67.43486974
+1727,7,9,0,"Research Community,Machine Learning Group",28,89.37875752
+1728,5,8,7,Research Community,62,74.04809619
+1729,9,10,7,Data Science Community,80,35.77154309
+1730,8,9,5,"AI Enthusiasts,Data Science Community",38,10.52104208
+1731,5,9,9,Data Science Community,56,92.38476954
+1732,1,5,8,Machine Learning Group,88,89.47895792
+1733,8,9,5,"Research Community,Developer Network,Machine Learning Group",56,10.62124248
+1734,10,0,1,"Developer Network,AI Enthusiasts,Research Community",8,5.911823647
+1735,5,7,8,AI Enthusiasts,100,51.10220441
+1736,10,7,10,Machine Learning Group,72,93.78757515
+1737,8,5,5,"AI Enthusiasts,Machine Learning Group,Research Community",52,73.54709419
+1738,7,9,10,"Developer Network,Machine Learning Group,Research Community",78,97.09418838
+1739,8,8,8,"AI Enthusiasts,Machine Learning Group",48,67.83567134
+1740,10,5,7,Data Science Community,84,50.501002
+1741,0,1,8,"Data Science Community,Developer Network",6,0.100200401
+1742,0,8,10,"Data Science Community,Research Community",82,30.56112224
+1743,5,10,0,"Machine Learning Group,Data Science Community",68,80.56112224
+1744,6,5,0,"Developer Network,Machine Learning Group,AI Enthusiasts",8,0.601202405
+1745,10,10,5,"Research Community,Developer Network,Machine Learning Group",80,64.32865731
+1746,0,8,6,"AI Enthusiasts,Research Community,Data Science Community",78,78.85771543
+1747,0,7,5,"Developer Network,Data Science Community",80,23.14629259
+1748,5,8,10,Research Community,40,74.8496994
+1749,6,10,9,"Developer Network,AI Enthusiasts",98,35.77154309
+1750,5,0,2,"Machine Learning Group,Research Community,AI Enthusiasts",20,2.605210421
+1751,10,0,9,"Research Community,Developer Network",2,1.002004008
+1752,9,5,5,"Research Community,Machine Learning Group,Data Science Community",42,94.78957916
+1753,2,6,7,"Machine Learning Group,AI Enthusiasts",28,79.85971944
+1754,9,5,10,"AI Enthusiasts,Data Science Community",30,84.26853707
+1755,5,10,7,"Machine Learning Group,Developer Network",34,95.19038076
+1756,7,9,7,"Data Science Community,Research Community,Developer Network",28,94.68937876
+1757,10,2,8,"Machine Learning Group,Research Community",12,4.509018036
+1758,7,9,10,AI Enthusiasts,56,83.56713427
+1759,7,5,9,"Developer Network,Data Science Community",0,9.218436874
+1760,8,7,5,Developer Network,84,17.13426854
+1761,10,10,0,"Data Science Community,Developer Network",24,85.87174349
+1762,9,7,8,"Research Community,Developer Network,Machine Learning Group",58,93.38677355
+1763,5,7,7,"AI Enthusiasts,Machine Learning Group,Research Community",38,8.71743487
+1764,0,8,6,"Developer Network,Research Community,AI Enthusiasts",26,73.44689379
+1765,8,10,8,AI Enthusiasts,50,46.29258517
+1766,7,9,9,"Research Community,Developer Network,Machine Learning Group",72,95.69138277
+1767,6,5,10,"Developer Network,AI Enthusiasts",12,3.206412826
+1768,8,0,6,"Research Community,Data Science Community,Machine Learning Group",20,5.110220441
+1769,9,8,3,Machine Learning Group,40,29.85971944
+1770,10,7,6,AI Enthusiasts,94,44.98997996
+1771,6,6,7,"Research Community,AI Enthusiasts",68,17.23446894
+1772,3,8,7,Developer Network,60,42.48496994
+1773,6,9,6,"Research Community,Data Science Community",82,32.66533066
+1774,7,10,8,Machine Learning Group,50,63.22645291
+1775,7,6,10,Machine Learning Group,66,27.65531062
+1776,6,3,8,Developer Network,18,7.915831663
+1777,8,6,0,Research Community,62,91.68336673
+1778,10,7,10,"Developer Network,Research Community",60,36.77354709
+1779,8,7,8,"Data Science Community,Research Community",42,89.37875752
+1780,0,6,5,"Machine Learning Group,Data Science Community,Developer Network",22,17.33466934
+1781,10,8,6,"Machine Learning Group,Developer Network,AI Enthusiasts",46,20.14028056
+1782,8,10,9,"AI Enthusiasts,Research Community",54,35.57114228
+1783,5,8,8,Machine Learning Group,60,12.3246493
+1784,6,0,10,"AI Enthusiasts,Developer Network",12,0.901803607
+1785,9,10,0,Data Science Community,56,67.93587174
+1786,8,8,7,"AI Enthusiasts,Developer Network",46,83.26653307
+1787,10,5,6,"Research Community,Data Science Community,Developer Network",2,8.71743487
+1788,0,6,0,"Data Science Community,Machine Learning Group",34,26.95390782
+1789,7,9,6,"AI Enthusiasts,Research Community",52,62.8256513
+1790,6,8,5,"Developer Network,Research Community,Machine Learning Group",38,65.83166333
+1791,0,10,6,Research Community,64,81.76352705
+1792,6,0,10,"Data Science Community,AI Enthusiasts,Machine Learning Group",8,3.907815631
+1793,5,7,7,"Research Community,Data Science Community,AI Enthusiasts",50,33.76753507
+1794,6,6,0,"Data Science Community,Research Community",30,63.32665331
+1795,10,0,6,AI Enthusiasts,16,7.915831663
+1796,7,6,6,"AI Enthusiasts,Research Community,Developer Network",68,34.26853707
+1797,0,5,8,"Developer Network,AI Enthusiasts,Research Community",74,66.03206413
+1798,6,6,7,"Data Science Community,Developer Network",84,32.46492986
+1799,6,10,6,Machine Learning Group,56,55.91182365
+1800,8,7,4,Developer Network,78,45.29058116
+1801,7,0,2,"Research Community,Machine Learning Group,Data Science Community",6,6.012024048
+1802,6,6,7,"Data Science Community,Developer Network",46,35.27054108
+1803,4,6,5,Research Community,62,57.31462926
+1804,2,8,9,"Developer Network,AI Enthusiasts,Research Community",26,30.06012024
+1805,7,7,10,"Developer Network,AI Enthusiasts",68,33.16633267
+1806,5,6,5,"Machine Learning Group,Data Science Community,Developer Network",22,93.98797595
+1807,9,4,7,"Research Community,Machine Learning Group,Data Science Community",0,0.601202405
+1808,10,2,10,Machine Learning Group,16,2.605210421
+1809,5,7,10,"Developer Network,Data Science Community",32,45.99198397
+1810,7,5,10,AI Enthusiasts,36,75.250501
+1811,10,9,7,"Developer Network,Research Community,AI Enthusiasts",74,47.99599198
+1812,10,10,10,"AI Enthusiasts,Developer Network",60,31.26252505
+1813,10,5,9,AI Enthusiasts,38,90.28056112
+1814,7,7,8,"AI Enthusiasts,Data Science Community,Research Community",60,86.87374749
+1815,10,10,2,"Developer Network,Machine Learning Group,Research Community",28,6.813627255
+1816,9,10,8,Developer Network,92,83.36673347
+1817,8,10,0,AI Enthusiasts,72,29.55911824
+1818,2,7,10,"Data Science Community,Machine Learning Group",68,56.11222445
+1819,8,10,2,AI Enthusiasts,70,51.90380762
+1820,0,9,8,"Research Community,Machine Learning Group,Developer Network",74,26.65330661
+1821,10,8,8,"AI Enthusiasts,Research Community,Data Science Community",22,35.07014028
+1822,2,2,8,"Research Community,Machine Learning Group",8,0.400801603
+1823,8,8,5,Research Community,60,56.51302605
+1824,8,0,6,"AI Enthusiasts,Research Community,Machine Learning Group",2,9.218436874
+1825,8,10,10,"Data Science Community,Machine Learning Group",58,38.77755511
+1826,5,2,7,Research Community,4,9.318637275
+1827,6,8,8,"Research Community,Machine Learning Group",92,72.54509018
+1828,10,8,2,Research Community,48,30.76152305
+1829,7,8,6,Data Science Community,88,89.17835671
+1830,8,5,6,"AI Enthusiasts,Data Science Community",36,45.49098196
+1831,2,6,5,Data Science Community,22,62.5250501
+1832,6,10,6,Machine Learning Group,38,55.81162325
+1833,6,7,9,"Research Community,Developer Network,Machine Learning Group",34,58.01603206
+1834,5,8,7,"Developer Network,AI Enthusiasts,Research Community",40,24.6492986
+1835,6,2,8,AI Enthusiasts,10,8.71743487
+1836,9,6,7,Machine Learning Group,58,49.09819639
+1837,7,6,2,"AI Enthusiasts,Machine Learning Group,Research Community",56,73.34669339
+1838,8,5,1,"Developer Network,Machine Learning Group,Research Community",58,31.16232465
+1839,7,6,5,"AI Enthusiasts,Machine Learning Group",26,48.69739479
+1840,2,9,5,Data Science Community,100,66.43286573
+1841,1,7,9,"Data Science Community,Developer Network",64,51.70340681
+1842,5,8,4,"Data Science Community,Research Community",66,39.87975952
+1843,5,7,2,"Machine Learning Group,Data Science Community",92,9.318637275
+1844,9,2,5,"Developer Network,Machine Learning Group,AI Enthusiasts",12,6.913827655
+1845,4,1,10,"Research Community,Developer Network,Machine Learning Group",2,6.513026052
+1846,2,5,6,"AI Enthusiasts,Research Community,Data Science Community",4,0.501002004
+1847,5,5,2,"Developer Network,Data Science Community",90,82.56513026
+1848,10,9,6,Research Community,100,61.72344689
+1849,6,4,2,"Developer Network,AI Enthusiasts",4,5.01002004
+1850,2,2,6,"Machine Learning Group,Research Community,AI Enthusiasts",6,0
+1851,6,5,10,"Research Community,Developer Network",18,9.018036072
+1852,2,10,6,"Research Community,Machine Learning Group,Data Science Community",90,28.65731463
+1853,6,6,8,"Machine Learning Group,AI Enthusiasts",72,5.511022044
+1854,10,2,10,"AI Enthusiasts,Data Science Community",8,1.20240481
+1855,6,6,9,"Machine Learning Group,Developer Network",50,68.53707415
+1856,8,2,3,"Data Science Community,Research Community,Developer Network",2,8.416833667
+1857,10,6,10,"Machine Learning Group,Research Community",88,75.95190381
+1858,9,10,9,AI Enthusiasts,64,36.57314629
+1859,3,6,3,"Developer Network,Data Science Community",34,61.62324649
+1860,10,8,4,Developer Network,72,92.98597194
+1861,9,10,8,"Data Science Community,Developer Network",40,99.498998
+1862,3,9,1,"Research Community,Developer Network,Machine Learning Group",44,26.15230461
+1863,4,3,3,"AI Enthusiasts,Machine Learning Group,Research Community",6,9.719438878
+1864,8,10,8,"Developer Network,Research Community,AI Enthusiasts",46,76.55310621
+1865,1,9,8,AI Enthusiasts,34,25.5511022
+1866,3,3,6,"Research Community,Developer Network,Machine Learning Group",10,0.100200401
+1867,8,4,8,"Developer Network,AI Enthusiasts",14,8.116232465
+1868,8,8,1,"Research Community,Data Science Community,Machine Learning Group",30,33.26653307
+1869,6,1,6,Machine Learning Group,6,3.006012024
+1870,8,3,9,AI Enthusiasts,0,4.909819639
+1871,1,8,9,"Research Community,AI Enthusiasts",56,51.90380762
+1872,6,8,1,Developer Network,22,60.42084168
+1873,9,6,10,"Research Community,Data Science Community",48,61.42284569
+1874,9,8,9,Machine Learning Group,94,13.62725451
+1875,1,1,5,Machine Learning Group,12,1.503006012
+1876,10,6,7,Developer Network,50,68.33667335
+1877,9,9,10,Research Community,62,32.36472946
+1878,5,9,5,"Developer Network,Research Community",26,59.81963928
+1879,7,1,7,"Data Science Community,Research Community",16,6.412825651
+1880,10,10,7,"Machine Learning Group,Data Science Community,Developer Network",62,90.68136273
+1881,5,9,10,"Machine Learning Group,Developer Network,AI Enthusiasts",94,25.1503006
+1882,7,5,5,"AI Enthusiasts,Research Community",86,29.45891784
+1883,7,7,10,Machine Learning Group,44,7.314629259
+1884,10,10,9,"AI Enthusiasts,Developer Network",38,91.88376754
+1885,5,5,7,Data Science Community,24,85.77154309
+1886,10,7,6,"AI Enthusiasts,Developer Network",40,9.318637275
+1887,9,7,8,"Research Community,Data Science Community,Developer Network",94,96.59318637
+1888,7,10,9,"Data Science Community,Machine Learning Group",38,11.12224449
+1889,6,5,5,"AI Enthusiasts,Research Community",74,62.0240481
+1890,8,10,4,"Developer Network,Research Community,Machine Learning Group",92,24.14829659
+1891,9,9,6,Research Community,62,71.84368737
+1892,5,7,6,"Data Science Community,AI Enthusiasts,Machine Learning Group",68,8.416833667
+1893,4,6,5,"Research Community,Data Science Community,AI Enthusiasts",92,78.45691383
+1894,6,8,7,"Data Science Community,Research Community",80,13.62725451
+1895,6,9,10,AI Enthusiasts,82,76.45290581
+1896,5,5,8,"AI Enthusiasts,Research Community,Developer Network",58,58.71743487
+1897,7,4,9,"Developer Network,AI Enthusiasts,Research Community",16,2.805611222
+1898,10,6,10,"Data Science Community,Developer Network",54,85.77154309
+1899,8,6,6,Machine Learning Group,84,18.53707415
+1900,9,5,7,Developer Network,18,3.006012024
+1901,10,7,4,"Research Community,Machine Learning Group,Data Science Community",64,31.96392786
+1902,6,10,5,"Data Science Community,Developer Network",86,39.17835671
+1903,7,8,6,Research Community,38,89.97995992
+1904,4,9,8,"Developer Network,AI Enthusiasts,Research Community",22,30.36072144
+1905,5,10,6,"Developer Network,AI Enthusiasts",70,88.67735471
+1906,6,6,9,"Machine Learning Group,Data Science Community,Developer Network",46,65.73146293
+1907,8,7,5,"Research Community,Machine Learning Group,Data Science Community",54,92.68537074
+1908,6,4,6,Machine Learning Group,18,1.903807615
+1909,9,5,2,"Developer Network,Data Science Community",66,96.09218437
+1910,5,6,3,AI Enthusiasts,88,30.26052104
+1911,6,8,10,"Developer Network,Research Community,AI Enthusiasts",60,82.86573146
+1912,2,6,8,"AI Enthusiasts,Developer Network",96,92.18436874
+1913,3,9,8,AI Enthusiasts,62,66.33266533
+1914,10,5,7,"AI Enthusiasts,Data Science Community,Research Community",78,27.35470942
+1915,8,6,9,"Developer Network,Machine Learning Group,Research Community",46,16.13226453
+1916,8,2,9,Developer Network,18,5.811623246
+1917,7,3,8,AI Enthusiasts,10,2.905811623
+1918,9,10,7,"Data Science Community,Machine Learning Group",74,29.15831663
+1919,9,8,6,AI Enthusiasts,36,40.28056112
+1920,8,8,4,"Research Community,Machine Learning Group,Developer Network",68,45.79158317
+1921,7,7,8,"AI Enthusiasts,Research Community,Data Science Community",46,5.110220441
+1922,6,9,7,"Research Community,Machine Learning Group",74,30.96192385
+1923,4,9,10,Research Community,38,25.3507014
+1924,8,8,9,"AI Enthusiasts,Research Community,Machine Learning Group",50,83.96793587
+1925,7,7,10,"Data Science Community,Machine Learning Group",38,62.6252505
+1926,10,6,3,Research Community,62,77.05410822
+1927,9,4,8,"Research Community,Machine Learning Group",4,7.815631263
+1928,10,8,7,Research Community,42,82.96593186
+1929,3,7,6,Data Science Community,82,74.8496994
+1930,8,10,3,"AI Enthusiasts,Data Science Community",70,8.517034068
+1931,7,9,0,Data Science Community,44,27.75551102
+1932,6,10,9,Machine Learning Group,28,84.86973948
+1933,3,3,7,"Research Community,Developer Network,Machine Learning Group",14,0.200400802
+1934,0,8,9,"Developer Network,AI Enthusiasts,Research Community",62,87.8757515
+1935,9,7,10,AI Enthusiasts,84,15.63126253
+1936,7,6,9,Machine Learning Group,74,81.56312625
+1937,9,3,4,"AI Enthusiasts,Machine Learning Group,Research Community",4,8.416833667
+1938,10,0,8,"Developer Network,Machine Learning Group,Research Community",20,1.903807615
+1939,9,9,8,"AI Enthusiasts,Machine Learning Group",42,75.65130261
+1940,4,7,8,Data Science Community,24,9.819639279
+1941,8,9,3,"Data Science Community,Developer Network",40,76.65330661
+1942,8,10,6,"Data Science Community,Research Community",54,99.7995992
+1943,8,9,1,"Machine Learning Group,Data Science Community",72,97.69539078
+1944,3,4,9,"Developer Network,Machine Learning Group,AI Enthusiasts",8,4.208416834
+1945,6,8,7,"Research Community,Developer Network,Machine Learning Group",40,25.85170341
+1946,1,8,8,"AI Enthusiasts,Research Community,Data Science Community",78,98.49699399
+1947,9,8,4,"Developer Network,Data Science Community",60,38.17635271
+1948,7,3,0,Research Community,4,0.300601202
+1949,8,6,5,"Developer Network,AI Enthusiasts",38,86.9739479
+1950,4,1,5,"Machine Learning Group,Research Community,AI Enthusiasts",0,9.519038076
+1951,0,9,6,"Research Community,Developer Network",56,22.64529058
+1952,5,7,8,"Research Community,Machine Learning Group,Data Science Community",50,23.94789579
+1953,5,8,1,"Machine Learning Group,AI Enthusiasts",44,82.96593186
+1954,6,4,9,"AI Enthusiasts,Data Science Community",12,4.008016032
+1955,8,0,8,"Machine Learning Group,Developer Network",14,9.519038076
+1956,1,5,6,"Data Science Community,Research Community,Developer Network",8,2.204408818
+1957,9,5,9,"Machine Learning Group,Research Community",4,3.106212425
+1958,8,6,5,AI Enthusiasts,38,31.36272545
+1959,6,8,7,"Developer Network,Data Science Community",58,79.95991984
+1960,9,1,10,Developer Network,12,7.615230461
+1961,5,9,10,"Data Science Community,Developer Network",44,70.74148297
+1962,7,8,9,"Research Community,Developer Network,Machine Learning Group",36,46.69338677
+1963,10,6,8,"AI Enthusiasts,Machine Learning Group,Research Community",78,81.76352705
+1964,10,9,10,"Developer Network,Research Community,AI Enthusiasts",36,86.87374749
+1965,9,5,6,AI Enthusiasts,54,96.79358717
+1966,8,7,5,"Research Community,Developer Network,Machine Learning Group",48,85.17034068
+1967,10,10,5,"Developer Network,AI Enthusiasts",92,65.73146293
+1968,6,10,10,"Research Community,Data Science Community,Machine Learning Group",66,81.26252505
+1969,5,9,6,Machine Learning Group,58,25.75150301
+1970,5,8,6,AI Enthusiasts,34,32.26452906
+1971,10,10,9,"Research Community,AI Enthusiasts",56,14.62925852
+1972,6,6,3,Developer Network,30,21.84368737
+1973,6,5,5,"Research Community,Data Science Community",72,74.5490982
+1974,9,5,10,Machine Learning Group,16,8.316633267
+1975,3,10,8,Machine Learning Group,46,38.97795591
+1976,5,6,6,Developer Network,48,93.88777555
+1977,10,6,6,Research Community,96,56.91382766
+1978,8,9,5,"Developer Network,Research Community",80,10.12024048
+1979,6,3,8,"Data Science Community,Research Community",2,7.314629259
+1980,6,5,6,"Machine Learning Group,Data Science Community,Developer Network",4,4.308617234
+1981,5,10,9,"Machine Learning Group,Developer Network,AI Enthusiasts",70,22.34468938
+1982,8,8,3,"AI Enthusiasts,Research Community",92,77.65531062
+1983,6,6,5,Machine Learning Group,96,50.2004008
+1984,9,6,7,"AI Enthusiasts,Developer Network",32,79.65931864
+1985,3,5,8,Data Science Community,48,77.85571142
+1986,5,8,8,"AI Enthusiasts,Developer Network",70,56.51302605
+1987,7,6,1,"Research Community,Data Science Community,Developer Network",70,35.97194389
+1988,8,9,5,"Data Science Community,Machine Learning Group",48,38.0761523
+1989,8,3,6,"AI Enthusiasts,Research Community",20,2.304609218
+1990,1,5,6,"Developer Network,Research Community,Machine Learning Group",16,3.106212425
+1991,5,7,5,Research Community,92,96.29258517
+1992,6,8,4,"Data Science Community,AI Enthusiasts,Machine Learning Group",68,32.76553106
+1993,6,8,5,"Research Community,Data Science Community,AI Enthusiasts",82,58.51703407
+1994,5,1,8,"Data Science Community,Research Community",20,9.819639279
+1995,10,5,6,AI Enthusiasts,76,93.98797595
+1996,5,6,9,"AI Enthusiasts,Research Community,Developer Network",86,6.112224449
+1997,8,6,3,"Developer Network,AI Enthusiasts,Research Community",94,76.25250501
+1998,9,5,5,"Data Science Community,Developer Network",12,7.314629259
+1999,4,4,7,Machine Learning Group,18,5.410821643
